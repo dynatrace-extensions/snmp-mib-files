@@ -10,4 +10,4 @@ they might need to supply their own MIB files (for example, as part of an
 [Extension](https://www.dynatrace.com/support/help/extend-dynatrace/extensions20/data-sources/snmp-extensions))
 to benefit from the same features.
 
-These files were checked with Dynatrace ActiveGate 1.271 (released 01-Aug-2023)
+These files were checked with Dynatrace ActiveGate 1.281 (released 08-Jan-2024)
